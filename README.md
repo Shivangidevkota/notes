@@ -1,14 +1,13 @@
 
 # Notes Application 📝
 
-This is a simple **Notes Application** built with React (frontend) and Django (backend). It allows users to create, edit, delete, and pin notes. The application also supports user authentication and a toggle for light/dark mode.
+This is a simple **Notes Application** built with React (frontend) and Django (backend). It allows users to create, edit, delete. The application also supports user authentication and a toggle for light/dark mode.
 
 ---
 
 ## Features 🌟
 - User authentication (Login/Logout/Register)
 - Create, edit, and delete notes
-- Pin notes to keep them at the top
 - Light/Dark mode toggle
 - Responsive design
 
